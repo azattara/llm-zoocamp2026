@@ -1,31 +1,19 @@
 # LLM Zoocamp 2026 — Resolução de Exercícios
 
-Este repositório reúne as soluções dos exercícios referentes ao LLM Zoocamp — edição 2026, organizado pela DataTalks.
 
-## Objetivo
+### Question 01
+![question 01](Homework%202%20Vector%20Search/question%2001.jpg)
 
-- **Descrição:** Armazenar e organizar as resoluções dos exercícios propostos durante o curso/bootcamp.
-- **Público-alvo:** Participantes do LLM Zoocamp 2026 e interessados em aprender através dos exercícios.
+### Question 02
+![question 02](Homework%202%20Vector%20Search/question%2002.jpg)
 
-## Estrutura
+### Question 03
+![question 03](Homework%202%20Vector%20Search/question%2003.jpg)
 
-- Cada exercício deve estar em uma pasta própria com um README local explicando a solução.
-- Nome das pastas: siga o padrão `exercicio-<número>-<assunto>`.
+### Question 04
+![question 04](Homework%202%20Vector%20Search/question%2004.jpg)
 
-## Como usar
+### Question 05
+![question 05](Homework%202%20Vector%20Search/question%2005.jpg)
 
-1. Clone o repositório.
-2. Navegue até a pasta do exercício desejado.
-3. Leia o README local para instruções específicas e execute os exemplos conforme indicado.
 
-## Contribuição
-
-- Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou novas soluções.
-
-## Créditos
-
-Este repositório contém material criado pelos participantes e colaboradores do LLM Zoocamp 2026 (DataTalks).
-
----
-
-Se quiser, posso adicionar uma versão em inglês ou um modelo de README para cada exercício.
